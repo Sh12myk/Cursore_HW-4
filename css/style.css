@@ -90,6 +90,14 @@ span + span{
     margin-left: 10px;
 
 }
+nav{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    Justify-content: center;
+
+}
 nav a {
 
     text-transform: uppercase;
@@ -103,7 +111,7 @@ nav a:hover {
 div #about{
     width: 100%;
     position: relative;
-
+    margin-left: -2.5em;
 }
 .button{
 display: flex;
